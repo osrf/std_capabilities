@@ -1,4 +1,4 @@
-std_interfaces
-==============
+std_capabilities
+================
 
 Repository of standard capability interfaces.
