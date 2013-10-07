@@ -20,6 +20,18 @@
     <capability_interface>
       interfaces/DifferentialMobileBase.yaml
     </capability_interface>
+    <capability_interface>
+      interfaces/LaserSensor.yaml
+    </capability_interface>
+    <capability_interface>
+      interfaces/MultiEchoLaserSensor.yaml
+    </capability_interface>
+    <capability_interface>
+      interfaces/Navigation2D.yaml
+    </capability_interface>
+    <capability_interface>
+      interfaces/RGBDSensor.yaml
+    </capability_interface>
 
   </export>
 </package>
