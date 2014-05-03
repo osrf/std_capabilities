@@ -12,7 +12,7 @@ interface:
       '/rgbd_sensor/rgb/image_raw':
         type: 'sensor_msgs/Image'
         description: 'Raw color image to go along with the camera info.'
-      '/rgbd_sensor/rgb/image/color':
+      '/rgbd_sensor/rgb/image_color':
         description: 'color image to go along with the camera info.'
         type: 'sensor_msgs/PointCloud2'
         description: 'The color image and depth image composed into a registered, colored point cloud.'
